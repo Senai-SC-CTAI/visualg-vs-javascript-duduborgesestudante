@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: url("https://images7.alphacoders.com/441/441584.jpg");
+    background-image: url("https://media.tenor.com/tDv72O4_tiMAAAAC/espa%C3%A7o-space.gif");
     background-size: cover;
     color: white;
     
@@ -33,4 +33,12 @@ body{
 }
 p{
     text-shadow: 10%;
+}
+pre{
+    background-color: rgba(105, 105, 105, 0.192);
+    text-align: start;
+    display: flex;
+    width: min-content;
+    padding: 25px;
+    margin-left: 30px;
 }
